@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * Front facing HTMLs
+ */
+

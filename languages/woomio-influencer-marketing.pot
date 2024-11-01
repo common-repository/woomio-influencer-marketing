@@ -1,0 +1,217 @@
+# Copyright (C) 2021 iClickSee
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woomio (Influencer marketing) 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woomio-influencer-marketing\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-02T12:33:53+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: woomio-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Woomio (Influencer marketing)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://home.woomio.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Woomio Plugin allows Shop Owners to add & track purchases made with token/coupon (campaign/affiliate) combinations which we supply to our affiliates."
+msgstr ""
+
+#. Author of the plugin
+msgid "iClickSee"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://iclicksee.com/"
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:79
+#: admin/class-woomio-for-woocommerce-admin.php:80
+msgid "Woomio"
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:89
+msgid "Dashboard - Woomio for WooCommerce"
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:90
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:98
+#: admin/class-woomio-for-woocommerce-admin.php:99
+msgid "Tokens"
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:107
+#: admin/class-woomio-for-woocommerce-admin.php:108
+#: admin/partials/template-token-list.php:8
+msgid "Add Token"
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:219
+msgid "N/A"
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:390
+msgid "Woomio Token"
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:394
+msgid "Woomio Coupon"
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:431
+msgid "Campaing name, Campaign URL, Token, Coupon and Expire time are required."
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:436
+msgid "Please enter a valid campaign URL."
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:441
+msgid "Expired time should be an integer."
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:446
+msgid "Campaign name and Token cannot be more than 250 characters long."
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:457
+msgid "Token already added."
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:474
+msgid "Token updated successfully."
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:489
+msgid "Token added successfully."
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:517
+msgid "Failed to create token."
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:529
+msgid "Token deleted successfully."
+msgstr ""
+
+#: admin/class-woomio-for-woocommerce-admin.php:534
+msgid "Failed to delete token."
+msgstr ""
+
+#: admin/partials/template-dashboard.php:5
+msgid "Sales record"
+msgstr ""
+
+#: admin/partials/template-dashboard.php:15
+#: admin/partials/template-token-list.php:26
+msgid "Campaign"
+msgstr ""
+
+#: admin/partials/template-dashboard.php:16
+#: admin/partials/template-token-add.php:34
+msgid "Token"
+msgstr ""
+
+#: admin/partials/template-dashboard.php:17
+msgid "Coupon"
+msgstr ""
+
+#: admin/partials/template-dashboard.php:18
+msgid "# of Sales"
+msgstr ""
+
+#: admin/partials/template-dashboard.php:19
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/template-token-add.php:5
+msgid "Add Tokens"
+msgstr ""
+
+#: admin/partials/template-token-add.php:24
+msgid "Campaign Name"
+msgstr ""
+
+#: admin/partials/template-token-add.php:29
+msgid "Campaign URL"
+msgstr ""
+
+#: admin/partials/template-token-add.php:39
+msgid "Expire time (in days)"
+msgstr ""
+
+#: admin/partials/template-token-add.php:48
+msgid "Coupon Code"
+msgstr ""
+
+#: admin/partials/template-token-add.php:49
+msgid "Coupon Type"
+msgstr ""
+
+#: admin/partials/template-token-add.php:50
+msgid "Description"
+msgstr ""
+
+#: admin/partials/template-token-add.php:51
+msgid "Expiry Date"
+msgstr ""
+
+#: admin/partials/template-token-add.php:69
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/template-token-add.php:71
+msgid "Loading"
+msgstr ""
+
+#: admin/partials/template-token-add.php:80
+msgid "Instruction"
+msgstr ""
+
+#: admin/partials/template-token-add.php:90
+msgid "It looks like you do not have coupons to add."
+msgstr ""
+
+#: admin/partials/template-token-add.php:91
+msgid "Add Coupon"
+msgstr ""
+
+#: admin/partials/template-token-list.php:5
+msgid "Manage Tokens"
+msgstr ""
+
+#: admin/partials/template-token-list.php:20
+msgid "Loading..."
+msgstr ""
+
+#: admin/partials/template-token-list.php:27
+msgid "Token Key"
+msgstr ""
+
+#: admin/partials/template-token-list.php:28
+msgid "# of Coupon"
+msgstr ""
+
+#: admin/partials/template-token-list.php:29
+msgid "Expire (days)"
+msgstr ""
+
+#: admin/partials/template-token-list.php:30
+msgid "Created"
+msgstr ""
+
+#: admin/partials/template-token-list.php:31
+msgid "Action"
+msgstr ""
